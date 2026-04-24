@@ -1,11 +1,18 @@
 const databaseProyek = {
     "sistem_pos": {
-        judul: "Sistem pos",
+        judul: "IPHONE",
         keahlian: ["JavaScript","PHP"],
-        gambar: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkwKQTqlYbq4noIHSkb33t7SkA1v29kgnOMw&s",
-        latar: "Ini adalah proyek magang dimana saya membuat sistem POS untuk PT ROSCOE",
-        tantangan: "Kebutuhan dari ptnya sangat rumit",
-        pelajaran: "Saya mendapatkan pelajaran bahwa sistem pos PT Roscoe ideal skala kecil",
+        gambar: "https://down-id.img.susercontent.com/file/id-11134201-7r98t-lmpk42301ctbbc",
+        latar: "8,000.000",
+        tantangan: "persaingan ketat AI dari Google/Microsoft, stagnasi penjualan, inovasi hardware yang melambat, serta regulasi lokal seperti TKDN",
+        link: ""
+    },
+    "sistem_pos_xyz" : {
+        judul: "IPAD",
+        keahlian: ["JavaScript","PHP"],
+        gambar: "https://cdn.antaranews.com/cache/1200x800/2016/03/20160323ipad_pro.jpg",
+        latar: "3,500.000",
+        tantangan: "persaingan ketat AI dari Google/Microsoft, stagnasi penjualan, inovasi hardware yang melambat, serta regulasi lokal seperti TKDN",
         link: ""
     },
 };
